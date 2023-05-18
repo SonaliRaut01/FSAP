@@ -1,0 +1,7 @@
+column table "Employee" (
+    "EmployeeID" INTEGER,
+    "FirstName" NVARCHAR(20),
+    "LastName" NVARCHAR(20),
+    "EmailID" NVARCHAR(20),
+    PRIMARY KEY ("EmployeeID")
+)
